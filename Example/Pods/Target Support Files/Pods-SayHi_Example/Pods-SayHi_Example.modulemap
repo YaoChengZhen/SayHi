@@ -1,0 +1,6 @@
+framework module Pods_SayHi_Example {
+  umbrella header "Pods-SayHi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

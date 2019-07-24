@@ -1,0 +1,6 @@
+framework module SayHi {
+  umbrella header "SayHi-umbrella.h"
+
+  export *
+  module * { export * }
+}
