@@ -10,7 +10,7 @@ import UIKit
 
 open class YSayHi {
     
-    static func sayHello() {
+    public static func sayHello() {
         print("Hello world")
     }
     
